@@ -1,3 +1,5 @@
+venv_style_transfer
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
